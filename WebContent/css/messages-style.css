@@ -1,0 +1,102 @@
+html{
+ font-size: 15px; 
+}
+
+body {
+ background-repeat: no-repeat;
+ background-color:#8BC541; 
+ margin-top:5px;
+}
+
+.rich-panel-header {
+ font-size: 24px;
+ font-weight: normal;
+ background-image: none;
+ background-color: #fff;
+ margin-top:0px;
+ text-align:left;
+ border: none;
+ color:#6c9c34;
+}
+
+
+.rich-messages-marker img {
+ margin-top:0px;
+}
+.rich-panel{
+ width:1100px;
+ font-size: 15px;
+ background:#fff; /*url(../images/topo.png) no-repeat;*/
+ padding:5px 2.857142857rem;
+ margin-top:10px;
+ border-radius:20px;
+ border:none;
+ box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+ min-height:300px;
+ 
+}
+.top {
+ vertical-align: top;
+ margin-top:15px;
+}
+
+rich-message-label {
+ padding: 0px 10px;
+}
+
+.rich-messages-label {
+ padding: 0px 10px
+}
+
+.rich-message-marker {
+ 
+}
+
+.rich-message {
+ 
+}
+
+.errorLabel {
+ color: red;
+ font-size: 15px;
+}
+
+.infoLabel {
+ color: green;
+ font-size: 15px;
+}
+
+input[type="text"] {
+ text-transform: uppercase;
+ padding:5px 5px 5px 5px;
+}
+
+input[type="password"] {
+ padding:5px 5px 5px 5px;
+}
+
+input[type="button"]{
+ padding:5px 5px 5px 5px;
+ border-radius:5px;
+}
+
+select {
+ text-transform: uppercase;
+}
+
+.rich-table-cell {
+ text-transform: uppercase;
+}
+
+.maiusculo {
+ text-transform: uppercase;
+}
+
+.negrito {
+ font-weight: bold;
+}
+
+.form {
+ font-weight: bold;
+ font-size: 10px;
+}
